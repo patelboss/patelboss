@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Pankaj!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF00&center=true&width=600&lines=Welcome+to+My+GitHub+Profile!;I'm+a+Passionate+Developer!;Open+Source+Enthusiast!;Exploring+New+Technologies)](https://git.io/typing-svg)
 
@@ -30,7 +30,7 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=patelboss&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patelboss&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patelboss&layout=compact&theme=radical)](https://github.com/patelboss/github-readme-stats)
 
